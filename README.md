@@ -1,7 +1,3 @@
-# Laboratorio: noticias delictuales, LLM y Obsidian
-
-Pipeline académico para transformar **noticias delictuales no estructuradas** en un grafo de conocimiento en Obsidian.
-
 ## Integrantes
 
 - Ignacia Belén Peña Velásquez
