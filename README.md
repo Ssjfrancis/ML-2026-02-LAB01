@@ -2,6 +2,36 @@
 
 Pipeline académico para transformar **noticias delictuales no estructuradas** en un grafo de conocimiento en Obsidian.
 
+## Integrantes
+
+- Ignacia Belén Peña Velásquez
+- Francisco Cortés
+
+## Trabajo del grupo
+
+Este repositorio parte de la estructura base entregada para el laboratorio.
+
+Durante el desarrollo iremos completando las etapas pendientes,
+probando el funcionamiento del pipeline y realizando los ajustes
+necesarios a partir de las noticias seleccionadas para el trabajo.
+
+En particular, se trabajará sobre la extracción con Gemini,
+la validación de los resultados, la generación del vault de Obsidian
+y el análisis exploratorio de la información obtenida.
+
+El repositorio cubre dos entregas:
+
+1. **Lab 01:** captura (Google News + medios chilenos) y limpieza de texto.
+2. **Lab 02:** extracción con Gemini y validación JSON. El **vault de Obsidian** y las visualizaciones siguen siendo `TODO(alumno)`.
+
+La implementación de Gemini es **mínima y ejecutable**: el alumno debe mejorar el prompt, el parseo y el manejo de errores.
+
+No se entrena clustering. Los grupos de noticias se forman por **relaciones explícitas** (mismo delito, persona, organización o lugar).
+
+# Laboratorio: noticias delictuales, LLM y Obsidian
+
+Pipeline académico para transformar **noticias delictuales no estructuradas** en un grafo de conocimiento en Obsidian.
+
 El repositorio cubre dos entregas:
 
 1. **Lab 01:** captura (Google News + medios chilenos) y limpieza de texto.
